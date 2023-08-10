@@ -14,6 +14,8 @@
 		D32A1BCC2A835F8F00418E06 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BCB2A835F8F00418E06 /* LongPressGestureBootcamp.swift */; };
 		D32A1BCE2A8465D500418E06 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BCD2A8465D500418E06 /* MagnificationGestureBootcamp.swift */; };
 		D32A1BD02A84814B00418E06 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BCF2A84814B00418E06 /* RotationGestureBootcamp.swift */; };
+		D32A1BD22A84837A00418E06 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BD12A84837A00418E06 /* DragGestureBootcamp.swift */; };
+		D32A1BD42A848E1F00418E06 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BD32A848E1F00418E06 /* DragGestureBootcamp2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		D32A1BCB2A835F8F00418E06 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		D32A1BCD2A8465D500418E06 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		D32A1BCF2A84814B00418E06 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
+		D32A1BD12A84837A00418E06 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
+		D32A1BD32A848E1F00418E06 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				D32A1BBF2A835F0300418E06 /* ContentView.swift */,
 				D32A1BCB2A835F8F00418E06 /* LongPressGestureBootcamp.swift */,
 				D32A1BCD2A8465D500418E06 /* MagnificationGestureBootcamp.swift */,
+				D32A1BD12A84837A00418E06 /* DragGestureBootcamp.swift */,
+				D32A1BD32A848E1F00418E06 /* DragGestureBootcamp2.swift */,
 				D32A1BCF2A84814B00418E06 /* RotationGestureBootcamp.swift */,
 				D32A1BC12A835F0500418E06 /* Assets.xcassets */,
 				D32A1BC32A835F0500418E06 /* Preview Content */,
@@ -146,6 +152,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D32A1BD42A848E1F00418E06 /* DragGestureBootcamp2.swift in Sources */,
+				D32A1BD22A84837A00418E06 /* DragGestureBootcamp.swift in Sources */,
 				D32A1BC02A835F0300418E06 /* ContentView.swift in Sources */,
 				D32A1BBE2A835F0300418E06 /* ContinuedLearningApp.swift in Sources */,
 				D32A1BCE2A8465D500418E06 /* MagnificationGestureBootcamp.swift in Sources */,
