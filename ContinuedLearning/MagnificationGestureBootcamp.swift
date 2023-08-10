@@ -59,7 +59,7 @@ struct MagnificationGestureBootcamp: View {
 //                                moveY = 0
 //                            }
 //                        })
-//                    
+//
 //                )
             HStack{
                 Image(systemName: "heart.fill")
