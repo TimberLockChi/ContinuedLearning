@@ -24,6 +24,7 @@
 		D32A1BE02A85B8C000418E06 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BDF2A85B8C000418E06 /* HapticsBootcamp.swift */; };
 		D32A1BE22A85C8FF00418E06 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BE12A85C8FF00418E06 /* LocalNotificationBootcamp.swift */; };
 		D32A1BE42A85D74000418E06 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BE32A85D73F00418E06 /* HashableBootcamp.swift */; };
+		D32A1BE62A85DD7100418E06 /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BE52A85DD7100418E06 /* ArraysBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		D32A1BDF2A85B8C000418E06 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		D32A1BE12A85C8FF00418E06 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
 		D32A1BE32A85D73F00418E06 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
+		D32A1BE52A85DD7100418E06 /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				D32A1BCF2A84814B00418E06 /* RotationGestureBootcamp.swift */,
 				D32A1BD52A84B2E000418E06 /* ScrollViewReaderBootcamp.swift */,
 				D32A1BDF2A85B8C000418E06 /* HapticsBootcamp.swift */,
+				D32A1BE52A85DD7100418E06 /* ArraysBootcamp.swift */,
 				D32A1BDB2A84D18600418E06 /* MaskBootcamp.swift */,
 				D32A1BE12A85C8FF00418E06 /* LocalNotificationBootcamp.swift */,
 				D32A1BD72A84BB3F00418E06 /* GeometryReaderBootcamp.swift */,
@@ -182,6 +185,7 @@
 				D32A1BD42A848E1F00418E06 /* DragGestureBootcamp2.swift in Sources */,
 				D32A1BD22A84837A00418E06 /* DragGestureBootcamp.swift in Sources */,
 				D32A1BC02A835F0300418E06 /* ContentView.swift in Sources */,
+				D32A1BE62A85DD7100418E06 /* ArraysBootcamp.swift in Sources */,
 				D32A1BE22A85C8FF00418E06 /* LocalNotificationBootcamp.swift in Sources */,
 				D32A1BD62A84B2E000418E06 /* ScrollViewReaderBootcamp.swift in Sources */,
 				D32A1BBE2A835F0300418E06 /* ContinuedLearningApp.swift in Sources */,
