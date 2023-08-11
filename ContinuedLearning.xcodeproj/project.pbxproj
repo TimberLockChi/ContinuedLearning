@@ -20,6 +20,7 @@
 		D32A1BD82A84BB3F00418E06 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BD72A84BB3F00418E06 /* GeometryReaderBootcamp.swift */; };
 		D32A1BDA2A84C78600418E06 /* MultipleSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BD92A84C78600418E06 /* MultipleSheetBootcamp.swift */; };
 		D32A1BDC2A84D18600418E06 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BDB2A84D18600418E06 /* MaskBootcamp.swift */; };
+		D32A1BDE2A84D84300418E06 /* SoundBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BDD2A84D84300418E06 /* SoundBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		D32A1BD72A84BB3F00418E06 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		D32A1BD92A84C78600418E06 /* MultipleSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetBootcamp.swift; sourceTree = "<group>"; };
 		D32A1BDB2A84D18600418E06 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
+		D32A1BDD2A84D84300418E06 /* SoundBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				D32A1BD52A84B2E000418E06 /* ScrollViewReaderBootcamp.swift */,
 				D32A1BDB2A84D18600418E06 /* MaskBootcamp.swift */,
 				D32A1BD72A84BB3F00418E06 /* GeometryReaderBootcamp.swift */,
+				D32A1BDD2A84D84300418E06 /* SoundBootcamp.swift */,
 				D32A1BD92A84C78600418E06 /* MultipleSheetBootcamp.swift */,
 				D32A1BC12A835F0500418E06 /* Assets.xcassets */,
 				D32A1BC32A835F0500418E06 /* Preview Content */,
@@ -172,6 +175,7 @@
 				D32A1BD62A84B2E000418E06 /* ScrollViewReaderBootcamp.swift in Sources */,
 				D32A1BBE2A835F0300418E06 /* ContinuedLearningApp.swift in Sources */,
 				D32A1BCE2A8465D500418E06 /* MagnificationGestureBootcamp.swift in Sources */,
+				D32A1BDE2A84D84300418E06 /* SoundBootcamp.swift in Sources */,
 				D32A1BD82A84BB3F00418E06 /* GeometryReaderBootcamp.swift in Sources */,
 				D32A1BCC2A835F8F00418E06 /* LongPressGestureBootcamp.swift in Sources */,
 				D32A1BD02A84814B00418E06 /* RotationGestureBootcamp.swift in Sources */,
