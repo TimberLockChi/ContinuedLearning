@@ -31,6 +31,7 @@
 		D32A1C112A8DAC6200418E06 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C0F2A8DAC6200418E06 /* CoreDataContainer.xcdatamodeld */; };
 		D32A1C132A8FA44300418E06 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C122A8FA44300418E06 /* BackgroundThreadBootcamp.swift */; };
 		D32A1C152A91B59100418E06 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C142A91B59100418E06 /* WeakSelfBootcamp.swift */; };
+		D32A1C172A91C1B900418E06 /* TypeailasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C162A91C1B900418E06 /* TypeailasBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		D32A1C102A8DAC6200418E06 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		D32A1C122A8FA44300418E06 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		D32A1C142A91B59100418E06 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
+		D32A1C162A91C1B900418E06 /* TypeailasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeailasBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				D32A1BD32A848E1F00418E06 /* DragGestureBootcamp2.swift */,
 				D32A1BCF2A84814B00418E06 /* RotationGestureBootcamp.swift */,
 				D32A1C142A91B59100418E06 /* WeakSelfBootcamp.swift */,
+				D32A1C162A91C1B900418E06 /* TypeailasBootcamp.swift */,
 				D32A1BD52A84B2E000418E06 /* ScrollViewReaderBootcamp.swift */,
 				D32A1BDF2A85B8C000418E06 /* HapticsBootcamp.swift */,
 				D32A1BE52A85DD7100418E06 /* ArraysBootcamp.swift */,
@@ -208,6 +211,7 @@
 				D32A1C0C2A862E4300418E06 /* FruitContainer.xcdatamodeld in Sources */,
 				D32A1C112A8DAC6200418E06 /* CoreDataContainer.xcdatamodeld in Sources */,
 				D32A1BC02A835F0300418E06 /* ContentView.swift in Sources */,
+				D32A1C172A91C1B900418E06 /* TypeailasBootcamp.swift in Sources */,
 				D32A1BE62A85DD7100418E06 /* ArraysBootcamp.swift in Sources */,
 				D32A1BE22A85C8FF00418E06 /* LocalNotificationBootcamp.swift in Sources */,
 				D32A1BD62A84B2E000418E06 /* ScrollViewReaderBootcamp.swift in Sources */,
