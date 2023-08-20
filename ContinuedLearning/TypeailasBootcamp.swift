@@ -17,7 +17,7 @@ typealias TVModel = MovieModel//设置别名
 
 struct TypeailasBootcamp: View {
     
-    @State var item: MovieModel = MovieModel(title: "Title", director: "Joe", count: 5)
+    @State var item: TVModel = TVModel(title: "Title", director: "Joe", count: 5)
     
     var body: some View {
         VStack{

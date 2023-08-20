@@ -32,6 +32,7 @@
 		D32A1C132A8FA44300418E06 /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C122A8FA44300418E06 /* BackgroundThreadBootcamp.swift */; };
 		D32A1C152A91B59100418E06 /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C142A91B59100418E06 /* WeakSelfBootcamp.swift */; };
 		D32A1C172A91C1B900418E06 /* TypeailasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C162A91C1B900418E06 /* TypeailasBootcamp.swift */; };
+		D32A1C192A91ECC400418E06 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C182A91ECC400418E06 /* EscapingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		D32A1C122A8FA44300418E06 /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		D32A1C142A91B59100418E06 /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		D32A1C162A91C1B900418E06 /* TypeailasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeailasBootcamp.swift; sourceTree = "<group>"; };
+		D32A1C182A91ECC400418E06 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				D32A1C162A91C1B900418E06 /* TypeailasBootcamp.swift */,
 				D32A1BD52A84B2E000418E06 /* ScrollViewReaderBootcamp.swift */,
 				D32A1BDF2A85B8C000418E06 /* HapticsBootcamp.swift */,
+				D32A1C182A91ECC400418E06 /* EscapingBootcamp.swift */,
 				D32A1BE52A85DD7100418E06 /* ArraysBootcamp.swift */,
 				D32A1BDB2A84D18600418E06 /* MaskBootcamp.swift */,
 				D32A1C0D2A8DAAAE00418E06 /* CoreDataRelationshipBootcamp.swift */,
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D32A1C192A91ECC400418E06 /* EscapingBootcamp.swift in Sources */,
 				D32A1BE42A85D74000418E06 /* HashableBootcamp.swift in Sources */,
 				D32A1BDA2A84C78600418E06 /* MultipleSheetBootcamp.swift in Sources */,
 				D32A1BDC2A84D18600418E06 /* MaskBootcamp.swift in Sources */,
