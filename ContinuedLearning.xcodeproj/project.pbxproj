@@ -34,6 +34,7 @@
 		D32A1C172A91C1B900418E06 /* TypeailasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C162A91C1B900418E06 /* TypeailasBootcamp.swift */; };
 		D32A1C192A91ECC400418E06 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C182A91ECC400418E06 /* EscapingBootcamp.swift */; };
 		D32A1C1B2A91FD9400418E06 /* CodableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C1A2A91FD9400418E06 /* CodableBootcamp.swift */; };
+		D32A1C1D2A92525100418E06 /* DownloadWithEscpingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C1C2A92525100418E06 /* DownloadWithEscpingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		D32A1C162A91C1B900418E06 /* TypeailasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeailasBootcamp.swift; sourceTree = "<group>"; };
 		D32A1C182A91ECC400418E06 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 		D32A1C1A2A91FD9400418E06 /* CodableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootcamp.swift; sourceTree = "<group>"; };
+		D32A1C1C2A92525100418E06 /* DownloadWithEscpingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscpingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				D32A1BDF2A85B8C000418E06 /* HapticsBootcamp.swift */,
 				D32A1C182A91ECC400418E06 /* EscapingBootcamp.swift */,
 				D32A1C1A2A91FD9400418E06 /* CodableBootcamp.swift */,
+				D32A1C1C2A92525100418E06 /* DownloadWithEscpingBootcamp.swift */,
 				D32A1BE52A85DD7100418E06 /* ArraysBootcamp.swift */,
 				D32A1BDB2A84D18600418E06 /* MaskBootcamp.swift */,
 				D32A1C0D2A8DAAAE00418E06 /* CoreDataRelationshipBootcamp.swift */,
@@ -228,6 +231,7 @@
 				D32A1BCE2A8465D500418E06 /* MagnificationGestureBootcamp.swift in Sources */,
 				D32A1BDE2A84D84300418E06 /* SoundBootcamp.swift in Sources */,
 				D32A1BD82A84BB3F00418E06 /* GeometryReaderBootcamp.swift in Sources */,
+				D32A1C1D2A92525100418E06 /* DownloadWithEscpingBootcamp.swift in Sources */,
 				D32A1BE02A85B8C000418E06 /* HapticsBootcamp.swift in Sources */,
 				D32A1BCC2A835F8F00418E06 /* LongPressGestureBootcamp.swift in Sources */,
 				D32A1BD02A84814B00418E06 /* RotationGestureBootcamp.swift in Sources */,
