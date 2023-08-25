@@ -35,6 +35,7 @@
 		D32A1C192A91ECC400418E06 /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C182A91ECC400418E06 /* EscapingBootcamp.swift */; };
 		D32A1C1B2A91FD9400418E06 /* CodableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C1A2A91FD9400418E06 /* CodableBootcamp.swift */; };
 		D32A1C1D2A92525100418E06 /* DownloadWithEscpingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C1C2A92525100418E06 /* DownloadWithEscpingBootcamp.swift */; };
+		D32A1C1F2A95021900418E06 /* DownloadWithCombineBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1C1E2A95021900418E06 /* DownloadWithCombineBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		D32A1C182A91ECC400418E06 /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 		D32A1C1A2A91FD9400418E06 /* CodableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootcamp.swift; sourceTree = "<group>"; };
 		D32A1C1C2A92525100418E06 /* DownloadWithEscpingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscpingBootcamp.swift; sourceTree = "<group>"; };
+		D32A1C1E2A95021900418E06 /* DownloadWithCombineBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombineBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				D32A1C0F2A8DAC6200418E06 /* CoreDataContainer.xcdatamodeld */,
 				D32A1C082A862CDF00418E06 /* CoreDataBootcamp.swift */,
 				D32A1C0A2A862E4300418E06 /* FruitContainer.xcdatamodeld */,
+				D32A1C1E2A95021900418E06 /* DownloadWithCombineBootcamp.swift */,
 				D32A1BE12A85C8FF00418E06 /* LocalNotificationBootcamp.swift */,
 				D32A1BD72A84BB3F00418E06 /* GeometryReaderBootcamp.swift */,
 				D32A1BDD2A84D84300418E06 /* SoundBootcamp.swift */,
@@ -213,6 +216,7 @@
 				D32A1BE42A85D74000418E06 /* HashableBootcamp.swift in Sources */,
 				D32A1BDA2A84C78600418E06 /* MultipleSheetBootcamp.swift in Sources */,
 				D32A1BDC2A84D18600418E06 /* MaskBootcamp.swift in Sources */,
+				D32A1C1F2A95021900418E06 /* DownloadWithCombineBootcamp.swift in Sources */,
 				D32A1C132A8FA44300418E06 /* BackgroundThreadBootcamp.swift in Sources */,
 				D32A1C0E2A8DAAAE00418E06 /* CoreDataRelationshipBootcamp.swift in Sources */,
 				D32A1C092A862CDF00418E06 /* CoreDataBootcamp.swift in Sources */,
