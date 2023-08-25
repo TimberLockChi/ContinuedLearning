@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D308372E2A984B2B00CE05FC /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D308372D2A984B2B00CE05FC /* TimerBootcamp.swift */; };
 		D32A1BBE2A835F0300418E06 /* ContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BBD2A835F0300418E06 /* ContinuedLearningApp.swift */; };
 		D32A1BC02A835F0300418E06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BBF2A835F0300418E06 /* ContentView.swift */; };
 		D32A1BC22A835F0500418E06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D32A1BC12A835F0500418E06 /* Assets.xcassets */; };
@@ -39,6 +40,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D308372D2A984B2B00CE05FC /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		D32A1BBA2A835F0300418E06 /* ContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D32A1BBD2A835F0300418E06 /* ContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuedLearningApp.swift; sourceTree = "<group>"; };
 		D32A1BBF2A835F0300418E06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				D32A1C082A862CDF00418E06 /* CoreDataBootcamp.swift */,
 				D32A1C0A2A862E4300418E06 /* FruitContainer.xcdatamodeld */,
 				D32A1C1E2A95021900418E06 /* DownloadWithCombineBootcamp.swift */,
+				D308372D2A984B2B00CE05FC /* TimerBootcamp.swift */,
 				D32A1BE12A85C8FF00418E06 /* LocalNotificationBootcamp.swift */,
 				D32A1BD72A84BB3F00418E06 /* GeometryReaderBootcamp.swift */,
 				D32A1BDD2A84D84300418E06 /* SoundBootcamp.swift */,
@@ -236,6 +239,7 @@
 				D32A1BDE2A84D84300418E06 /* SoundBootcamp.swift in Sources */,
 				D32A1BD82A84BB3F00418E06 /* GeometryReaderBootcamp.swift in Sources */,
 				D32A1C1D2A92525100418E06 /* DownloadWithEscpingBootcamp.swift in Sources */,
+				D308372E2A984B2B00CE05FC /* TimerBootcamp.swift in Sources */,
 				D32A1BE02A85B8C000418E06 /* HapticsBootcamp.swift in Sources */,
 				D32A1BCC2A835F8F00418E06 /* LongPressGestureBootcamp.swift in Sources */,
 				D32A1BD02A84814B00418E06 /* RotationGestureBootcamp.swift in Sources */,
