@@ -10,9 +10,10 @@ import SwiftUI
 struct TimerBootcamp: View {
     
     //Timer.publish可以定时发布事件，并在指定的线程中执行所需要的操作
-    let timer = Timer.publish(every: 3, on: .main, in: .common).autoconnect()//会自动启动
+    let timer = Timer.publish(every: 1, on: .main, in: .common).autoconnect()//会自动启动
+    
     //当前日期
-    /*
+    
     @State var currentDate: Date = Date()
     //日期格式化
     var dateFormatter:DateFormatter{
@@ -21,7 +22,7 @@ struct TimerBootcamp: View {
         formatter.timeStyle = .medium
         return formatter
     }
-    */
+    
     //计数
     /*
     @State var count:Int = 10
@@ -61,12 +62,11 @@ struct TimerBootcamp: View {
             .ignoresSafeArea()
             //dateFormatter.string(from: currentDate)//执行日期格式化
             //finishedText ?? "\(count)"//倒计时计数器
-//            Text(timeRemaining)
-//                .font(.system(size: 100, weight: .semibold, design: .rounded))
-//                .foregroundColor(.white)
-//                .lineLimit(1)//保持在一行上
-//                .minimumScaleFactor(0.1)//如果字数太多可以进行缩放，最小缩放比例是0.1
-            
+            Text(dateFormatter.string(from: currentDate))
+                .font(.system(size: 100, weight: .semibold, design: .rounded))
+                .foregroundColor(.white)
+                .lineLimit(1)//保持在一行上
+                .minimumScaleFactor(0.1)//如果字数太多可以进行缩放，最小缩放比例是0.1
             //模拟实现三个球的加载动画
 //            HStack(spacing:15){
 //                Circle()
@@ -105,7 +105,7 @@ struct TimerBootcamp: View {
         }
         .onReceive(timer) { value in
             //接收publisher发布的信息，并进行对应的更改
-//            currentDate = value
+            currentDate = value
 //            if count < 1 {
 //                finishedText = "Wow"
 //            }else{
