@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		D308372E2A984B2B00CE05FC /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D308372D2A984B2B00CE05FC /* TimerBootcamp.swift */; };
+		D30837302A9CDC7E00CE05FC /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D308372F2A9CDC7E00CE05FC /* SubscriberBootcamp.swift */; };
+		D30837322A9D8CA800CE05FC /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D30837312A9D8CA800CE05FC /* FileManagerBootcamp.swift */; };
 		D32A1BBE2A835F0300418E06 /* ContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BBD2A835F0300418E06 /* ContinuedLearningApp.swift */; };
 		D32A1BC02A835F0300418E06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D32A1BBF2A835F0300418E06 /* ContentView.swift */; };
 		D32A1BC22A835F0500418E06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D32A1BC12A835F0500418E06 /* Assets.xcassets */; };
@@ -41,6 +43,8 @@
 
 /* Begin PBXFileReference section */
 		D308372D2A984B2B00CE05FC /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
+		D308372F2A9CDC7E00CE05FC /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
+		D30837312A9D8CA800CE05FC /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
 		D32A1BBA2A835F0300418E06 /* ContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D32A1BBD2A835F0300418E06 /* ContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuedLearningApp.swift; sourceTree = "<group>"; };
 		D32A1BBF2A835F0300418E06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -124,8 +128,10 @@
 				D32A1C122A8FA44300418E06 /* BackgroundThreadBootcamp.swift */,
 				D32A1C0F2A8DAC6200418E06 /* CoreDataContainer.xcdatamodeld */,
 				D32A1C082A862CDF00418E06 /* CoreDataBootcamp.swift */,
+				D30837312A9D8CA800CE05FC /* FileManagerBootcamp.swift */,
 				D32A1C0A2A862E4300418E06 /* FruitContainer.xcdatamodeld */,
 				D32A1C1E2A95021900418E06 /* DownloadWithCombineBootcamp.swift */,
+				D308372F2A9CDC7E00CE05FC /* SubscriberBootcamp.swift */,
 				D308372D2A984B2B00CE05FC /* TimerBootcamp.swift */,
 				D32A1BE12A85C8FF00418E06 /* LocalNotificationBootcamp.swift */,
 				D32A1BD72A84BB3F00418E06 /* GeometryReaderBootcamp.swift */,
@@ -221,11 +227,13 @@
 				D32A1BDC2A84D18600418E06 /* MaskBootcamp.swift in Sources */,
 				D32A1C1F2A95021900418E06 /* DownloadWithCombineBootcamp.swift in Sources */,
 				D32A1C132A8FA44300418E06 /* BackgroundThreadBootcamp.swift in Sources */,
+				D30837322A9D8CA800CE05FC /* FileManagerBootcamp.swift in Sources */,
 				D32A1C0E2A8DAAAE00418E06 /* CoreDataRelationshipBootcamp.swift in Sources */,
 				D32A1C092A862CDF00418E06 /* CoreDataBootcamp.swift in Sources */,
 				D32A1BD42A848E1F00418E06 /* DragGestureBootcamp2.swift in Sources */,
 				D32A1BD22A84837A00418E06 /* DragGestureBootcamp.swift in Sources */,
 				D32A1C0C2A862E4300418E06 /* FruitContainer.xcdatamodeld in Sources */,
+				D30837302A9CDC7E00CE05FC /* SubscriberBootcamp.swift in Sources */,
 				D32A1C112A8DAC6200418E06 /* CoreDataContainer.xcdatamodeld in Sources */,
 				D32A1BC02A835F0300418E06 /* ContentView.swift in Sources */,
 				D32A1C172A91C1B900418E06 /* TypeailasBootcamp.swift in Sources */,
